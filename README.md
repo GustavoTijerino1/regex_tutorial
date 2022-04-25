@@ -1,4 +1,4 @@
-# regex_tutorial# Regex for Beginners
+# regex_tutorial
 
 The purpose of this assignment is to explain how to use a Regex if you were a complete beginner.
 
